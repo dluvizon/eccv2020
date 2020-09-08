@@ -11,6 +11,10 @@
 
 ### 3D from multi-view
 
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (**Honorable mention**) | [link](https://www.matthewtancik.com/nerf)
+![](https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png)
+
+
 - Privacy Preserving Structure-from-Motion (**Oral**) | [link](https://cvg.ethz.ch/research/privacy-preserving-sfm/)
 ![](https://cvg.ethz.ch/research/privacy-preserving-sfm/images/teaser.png)
 
@@ -32,6 +36,11 @@
 
 - Free View Synthesis | [link](http://vladlen.info/papers/FVS.pdf) | [YouTube](https://www.youtube.com/watch?v=JDJPn3ZtfZs&feature=youtu.be)
 
+- Crowdsampling the Plenoptic Function | [link](https://research.cs.cornell.edu/crowdplenoptic/)
+![](https://research.cs.cornell.edu/crowdplenoptic/teaser/trevi_teaser.gif)
+
+- Deep Multi Depth Panoaramas for View Synthesis | [link](https://arxiv.org/pdf/2008.01815.pdf)
+
 ### Image and video synthesis
 
 - MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images (**Oral**) | [link](https://arxiv.org/pdf/2008.06534.pdf)
@@ -41,7 +50,8 @@
 
 - Towards Automated Testing and Robustification by Semantic Adversarial Data Generation (**Oral**)
 
-- ForkGAN: Seeing into the Rainy Night (**Oral**) | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)
+- ForkGAN: Seeing into the Rainy Night (**Oral**) | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf) | [cide](https://github.com/zhengziqiang/ForkGAN)
+![](https://raw.githubusercontent.com/zhengziqiang/ForkGAN/master/figures/framework.jpg)
 
 - RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval | [link](https://arxiv.org/pdf/2007.08513.pdf)
 
@@ -50,16 +60,23 @@
 
 - Deep Novel View Synthesis from Colored 3D Point Clouds
 
-- Semantic View Synthesis | [link](https://arxiv.org/pdf/2008.10598.pdf)
+- Semantic View Synthesis | [link](https://arxiv.org/pdf/2008.10598.pdf) | [project](https://hhsinping.github.io/svs/index.html)
 
 - Rewriting a Deep Generative Model (**Oral**) | [link](https://arxiv.org/pdf/2007.15646.pdf) | [project](https://rewriting.csail.mit.edu/)
 ![](https://raw.githubusercontent.com/davidbau/rewriting/master/images/horse-hat-edit.gif)
+
+- SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects | [link](https://arxiv.org/pdf/2004.04977.pdf)
+![](https://github.com/vglsd/OpenSESAME/blob/master/teaser.png-1.png)
+
+- DeepLandscape: Adversarial Modeling of Landscape Videos | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)
+
+- Model-based occlusion disentanglementfor image-to-image translation | [link](https://arxiv.org/pdf/2004.01071.pdf)
 
 ### Depth estimation
 
 - Du$^2$Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels (**Oral**) | [link](https://arxiv.org/pdf/2003.14299.pdf)
 
-- **Learning Stereo from Single Images** (**Oral**) | [link](https://github.com/nianticlabs/stereo-from-mono)
+- Learning Stereo from Single Images (**Oral**) | [link](https://github.com/nianticlabs/stereo-from-mono)
 ![](https://raw.githubusercontent.com/nianticlabs/stereo-from-mono/master/assets/teaser.png)
 
 - Domain-invariant Stereo Matching Networks (**Oral**) | [link](https://arxiv.org/pdf/1911.13287.pdf)
@@ -74,7 +91,7 @@
 - P$^{2$Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation | [link](https://github.com/svip-lab/Indoor-SfMLearner)
 ![](https://github.com/svip-lab/Indoor-SfMLearner/blob/master/asserts/pipeline.png)
 
-- DELTAS: Depth Estimation by Learning Triangulation And densification of Sparse points | [link](https://arxiv.org/pdf/2003.08933v2.pdf)
+- DELTAS: Depth Estimation by Learning Triangulation And densification of Sparse points | [link](https://arxiv.org/pdf/2003.08933v2.pdf) | [code](https://github.com/magicleap/DELTAS)
 
 - Improving Monocular Depth Estimation by Leveraging Structural Awareness and Complementary Datasets | [link](https://arxiv.org/pdf/2007.11256.pdf)
 
@@ -137,6 +154,11 @@
 - View-Invariant Probabilistic Embedding for Human Pose | [link](https://arxiv.org/pdf/1912.01001.pdf)
 ![](https://raw.githubusercontent.com/google-research/google-research/master/poem/doc/fig/manifold.png)
 
+- Self-supervised Keypoint Correspondences forMulti-Person Pose Estimation and Tracking inVideos | [link](https://arxiv.org/pdf/2004.12652.pdf)
+
+- DOPE: distillation of part experts for whole-body 3D pose estimation in the wild | [link](https://github.com/naver/dope)
+![](https://europe.naverlabs.com/wp-content/uploads/2020/08/body_classif.jpg)
+
 ### Text spotting
 
 - Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting | [link](https://arxiv.org/abs/2007.09482)
@@ -177,6 +199,11 @@
 
 - A Simple Way to Make Neural Networks Robust Against Diverse Image Corruptions (**Oral**) | [link](https://arxiv.org/pdf/2001.06057.pdf)
 
+### Computational photography
+
+- Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer | [link](https://arxiv.org/pdf/2004.10955.pdf)
+
+
 ### Quantization
 
 - DBQ: A Differentiable Branch Quantizer for Lightweight Deep Neural Networks | [link](https://arxiv.org/pdf/2007.09818.pdf)
@@ -188,3 +215,5 @@
 ### Optimization and deep learning
 
 - Weight Excitation: Built-in Attention Mechanisms in Convolutional Neural Networks | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750086.pdf)
+
+- Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with INNs | [link](https://compvis.github.io/invariances/)
