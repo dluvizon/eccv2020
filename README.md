@@ -85,6 +85,6 @@ Making Sense of CNNs: [link](https://compvis.github.io/invariances/)
 
 ## Notice
 
-All the images displayed here are directly linked to the projects' pages, when available.
+All images displayed here are directly linked to the projects' pages, when available.
 
 Did you find a missing *interesting paper*? Please open an issue!

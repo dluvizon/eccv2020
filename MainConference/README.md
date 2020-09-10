@@ -50,7 +50,7 @@
 
 - Towards Automated Testing and Robustification by Semantic Adversarial Data Generation (**Oral**)
 
-- ForkGAN: Seeing into the Rainy Night (**Oral**) | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf) | [cide](https://github.com/zhengziqiang/ForkGAN)
+- ForkGAN: Seeing into the Rainy Night (**Oral**) | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf) | [code](https://github.com/zhengziqiang/ForkGAN)
 ![](https://raw.githubusercontent.com/zhengziqiang/ForkGAN/master/figures/framework.jpg)
 
 - RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval | [link](https://arxiv.org/pdf/2007.08513.pdf)
@@ -68,7 +68,7 @@
 - SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects | [link](https://arxiv.org/pdf/2004.04977.pdf)
 ![](https://github.com/vglsd/OpenSESAME/blob/master/teaser.png-1.png)
 
-- DeepLandscape: Adversarial Modeling of Landscape Videos | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)
+- DeepLandscape: Adversarial Modeling of Landscape Videos | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf) | [code](https://github.com/saic-mdal/deep-landscape)
 
 - Model-based occlusion disentanglementfor image-to-image translation | [link](https://arxiv.org/pdf/2004.01071.pdf)
 

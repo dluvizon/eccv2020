@@ -17,3 +17,6 @@
 - Embedded Vision Workshop | [link](https://embeddedvisionworkshop.wordpress.com/)
 ![Embedded](https://embeddedvisionworkshop.files.wordpress.com/2017/08/cropped-theworkshop21.png)
 **Best paper**: Robust Quantization: One Model to Rule Them All | [link](https://arxiv.org/pdf/2002.07686v1.pdf)
+
+- Sensing, Understanding and Synthesizing Humans | [link](https://sense-human.github.io/)
+![SensingHumans](https://sense-human.github.io/ECCV_2020_Workshop/teaser2020new.png)
